@@ -2,7 +2,7 @@
 
 Description  :  Player need to guess the letter of the word before the subsequent incorrect letters create a figure of hanged man.
 
-Technologies :  Game designed using JavaScript, JSDOM, jQuery, HTML, CSS, Bootstrap
+Technologies :  Game designed using JavaScript, JSDOM, HTML, CSS and audio files
                
 Challenges   :   Learned to overcome the challenges of adopting CSS for a web based front-end game. 
   
